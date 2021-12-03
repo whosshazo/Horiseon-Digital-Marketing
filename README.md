@@ -1,1 +1,6 @@
 # Horiseon-Digital-Marketing
+Challenge 1 -- README.md
+
+For the first challenge, I refactored a digital marketing website by following the acceptance criteria given. I updated the title section first so potential customers would know that Horiseon is a Digital Marketing Agency. Then, I made sure that all links on the page were functioning correctly. Adding an ID to the correct hyperlink reference in the SEO link, allows the customer to navigate the page with ease. Next, I went through and added "alt" tags to the photos that I thought were relevant enough for the page. For those with disabilities, this helps to know what a picture is referring, without actually seeing the picture. Lastly, I attacked the CSS stylesheet to clean it up the best I could. There were multiple sections of redundant code. I organized the selectors that are styling the same elements and added the styling properties to all included elements in one group. Giving the code a more streamlined look, and organization for developers in the future.
+
+Once all the changes to the Index.html and CSS Stylesheet were complete. I went through and added sequential headline attributes. This is done so the next developer that comes across the code will not have to search endlessly to find the section they are looking for. Instead, everything is correctly labeled and separated throughout the page.
